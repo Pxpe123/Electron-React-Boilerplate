@@ -1,0 +1,10 @@
+.Home-Container {
+  width: 100%;
+  height: 100%;
+}
+
+.Home-Header {
+  width: 100%;
+  height: 15%;
+  background-color: gray;
+}
